@@ -1,3 +1,3 @@
 # llmonad
 
-Compositional framework for LLMs
+_When life gives you llms, make llmonad._ 🍋
